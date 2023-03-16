@@ -3,7 +3,7 @@ e:\>cg cglocalrepo1
 e:\cglocalrepo1>git init
 ======
 ++++++++++++++
-
+---------------
 
 
 git init
